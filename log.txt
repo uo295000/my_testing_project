@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file will give us problems
+=======
+Hello
+>>>>>>> 6274189... I have a log file now in my computer
