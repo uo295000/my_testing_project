@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This file will give us problems
 =======
 Hello
 >>>>>>> 6274189... I have a log file now in my computer
+=======
+I have "fixed my error"
+>>>>>>> 56ffb8a... I have a log file now in my computer
